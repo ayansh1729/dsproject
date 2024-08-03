@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a data science application with a web interface built using Flask. It allows users to interact with the data science models and visualize results through a user-friendly web interface.
+This project is a data science application with a web interface built using Flask. It allows users to interact with the data science model to predict the maths score of student based on various parameter.
 
 ## Features
 
