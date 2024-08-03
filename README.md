@@ -115,6 +115,3 @@ Contributions are welcome! Please create an issue or submit a pull request for a
 
 For any questions or inquiries, please contact [augustinadwin@gmail.com](mailto:augustinadwin@gmail.com).
 
----
-
-Feel free to customize this template according to the specifics of your project!
